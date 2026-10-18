@@ -22,3 +22,4 @@ Desktop.ini
 
 # Log files
 *.log
+.snapshots/
